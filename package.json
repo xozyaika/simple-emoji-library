@@ -1,0 +1,23 @@
+{
+  "name": "simple-emoji-library",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library for searching and retrieving emojis",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xozyaika/simple-emoji-library.git"
+  },
+  "keywords": [
+    "",
+    "",
+    ""
+  ],
+  "author": "xozyaika",
+  "license": "MIT",
+  "dependencies": {
+    "task-scheduler-ultra": "^1.0.0"
+  }
+}
