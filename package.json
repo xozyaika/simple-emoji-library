@@ -1,5 +1,5 @@
 {
-  "name": "simple-emoji-library",
+  "name": "really-simple-emoji-library",
   "version": "1.0.0",
   "description": "A simple JavaScript library for searching and retrieving emojis",
   "main": "./src/index.js",

@@ -1,4 +1,4 @@
-// simple-emoji-library.js
+// really-simple-emoji-library.js
 
 const emojiData = [
     { name: "grinning", emoji: "😀" },
